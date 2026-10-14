@@ -13,5 +13,4 @@ I enjoy learning about technology and solving complex problems in this domain. I
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/jboonphitak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sfjohnboonphitak)
 
-“You are in danger of living a life so comfortable and soft, that you will die without ever realizing your true potential.” 
-- David Goggins
+“You are in danger of living a life so comfortable and soft, that you will die without ever realizing your true potential.” - David Goggins
